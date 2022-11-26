@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "933507447905",
+    "firebase_url": "https://dnp-8bae1-default-rtdb.firebaseio.com",
+    "project_id": "dnp-8bae1",
+    "storage_bucket": "dnp-8bae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933507447905:android:836749284895ac2323fe20",
+        "android_client_info": {
+          "package_name": "com.prithwirajr07.dnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933507447905-rpm7b9jaj9d99cq1l8cd0ars066iqn4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrG_F7qlPwFcjbeiuerPQGHlPra2GLwBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933507447905-rpm7b9jaj9d99cq1l8cd0ars066iqn4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933507447905:android:0b499708b0f0e9ca23fe20",
+        "android_client_info": {
+          "package_name": "com.prithwirajr07.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933507447905-rpm7b9jaj9d99cq1l8cd0ars066iqn4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrG_F7qlPwFcjbeiuerPQGHlPra2GLwBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933507447905-rpm7b9jaj9d99cq1l8cd0ars066iqn4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
